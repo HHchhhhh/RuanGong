@@ -1,0 +1,11 @@
+{
+  "name": "calculation",
+  "version": "1.0.0",
+  "description": "\u001b[D\u001b[D\u001b[D随机生成四则运算",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jinjin99 and kaolalalala",
+  "license": "ISC"
+}
