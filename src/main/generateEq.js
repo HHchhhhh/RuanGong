@@ -41,9 +41,8 @@ function generate(n, r) {
 }
 module.exports = generate;
 
-// 生成运算符数组：根据生成的随机数来随机选取其中一个操作符
 /**
- * 
+ * 生成运算符数组：根据生成的随机数来随机选取其中一个操作符
  * @param {Number} n 需要生成的运算符个数
  * @returns {Array} 返回一个包含运算符的数组
  */

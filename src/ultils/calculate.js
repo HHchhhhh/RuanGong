@@ -1,3 +1,4 @@
+
 function calculate(ex) {
     // let arr = ex.split(/\+|\-|\×|\÷/)
     let arr = []
@@ -62,6 +63,12 @@ function calculate(ex) {
 
 module.exports = calculate
 
+/**
+ * 将假分数化成真分数并进行约分
+ * @param {Number} top 
+ * @param {Number} bot 
+ * @returns 
+ */
 function yuefen(top, bot) {
     if(top / bot === Math.floor(top / bot)) {
         return '' + (top / bot) + ''
@@ -77,6 +84,12 @@ function yuefen(top, bot) {
     return s
 }
 
+
+/**
+ * 求最大公约数
+ * @param  {...any} arr 
+ * @returns 
+ */
 function countDivior(...arr) {
     let data = [].concat(...arr);
     const helperGcd = (x, y) => (!y ? x : countDivior(y, x % y));
