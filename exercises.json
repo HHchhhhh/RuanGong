@@ -1,0 +1,317 @@
+[
+  { "key": 1, "expression": "9×6-3", "answer": "51", "eval": 51 },
+  {
+    "key": 2,
+    "expression": "5÷7÷9",
+    "answer": "5/63",
+    "eval": 0.07936507936507936
+  },
+  {
+    "key": 3,
+    "expression": "6×7-2÷9",
+    "answer": "41'7/9",
+    "eval": 41.77777777777778
+  },
+  { "key": 4, "expression": "3-7÷8", "answer": "2'1/8", "eval": 2.125 },
+  { "key": 5, "expression": "8-8", "answer": "0", "eval": 0 },
+  { "key": 6, "expression": "3÷5", "answer": "3/5", "eval": 0.6 },
+  {
+    "key": 7,
+    "expression": "1÷4÷9",
+    "answer": "1/36",
+    "eval": 0.027777777777777776
+  },
+  { "key": 8, "expression": "2÷3×9", "answer": "6", "eval": 6 },
+  { "key": 9, "expression": "2×8×7", "answer": "112", "eval": 112 },
+  { "key": 10, "expression": "4×1", "answer": "4", "eval": 4 },
+  { "key": 11, "expression": "7÷8", "answer": "7/8", "eval": 0.875 },
+  { "key": 12, "expression": "5-7÷8", "answer": "4'1/8", "eval": 4.125 },
+  {
+    "key": 13,
+    "expression": "4×7÷9",
+    "answer": "3'1/9",
+    "eval": 3.111111111111111
+  },
+  { "key": 14, "expression": "7÷8×3", "answer": "2'5/8", "eval": 2.625 },
+  {
+    "key": 15,
+    "expression": "2÷7÷9×5",
+    "answer": "10/63",
+    "eval": 0.15873015873015872
+  },
+  {
+    "key": 16,
+    "expression": "5÷6×2",
+    "answer": "1'2/3",
+    "eval": 1.6666666666666667
+  },
+  { "key": 17, "expression": "2×4÷6×9", "answer": "12", "eval": 12 },
+  { "key": 18, "expression": "1×1", "answer": "1", "eval": 1 },
+  {
+    "key": 19,
+    "expression": "6÷7×8-3",
+    "answer": "3'6/7",
+    "eval": 3.8571428571428568
+  },
+  { "key": 20, "expression": "1÷2×9", "answer": "4'1/2", "eval": 4.5 },
+  { "key": 21, "expression": "4×3", "answer": "12", "eval": 12 },
+  { "key": 22, "expression": "9×6×2", "answer": "108", "eval": 108 },
+  {
+    "key": 23,
+    "expression": "1÷4÷7",
+    "answer": "1/28",
+    "eval": 0.03571428571428571
+  },
+  { "key": 24, "expression": "5×4×1", "answer": "20", "eval": 20 },
+  {
+    "key": 25,
+    "expression": "6-5÷7÷9",
+    "answer": "5'58/63",
+    "eval": 5.920634920634921
+  },
+  {
+    "key": 26,
+    "expression": "6÷7÷9×2",
+    "answer": "4/21",
+    "eval": 0.19047619047619047
+  },
+  {
+    "key": 27,
+    "expression": "9-5÷7×1",
+    "answer": "8'2/7",
+    "eval": 8.285714285714286
+  },
+  {
+    "key": 28,
+    "expression": "7÷9×5÷9",
+    "answer": "35/81",
+    "eval": 0.43209876543209874
+  },
+  { "key": 29, "expression": "6×6", "answer": "36", "eval": 36 },
+  { "key": 30, "expression": "1×8×7", "answer": "56", "eval": 56 },
+  {
+    "key": 31,
+    "expression": "9-3×7÷9",
+    "answer": "6'2/3",
+    "eval": 6.666666666666666
+  },
+  { "key": 32, "expression": "3÷8", "answer": "3/8", "eval": 0.375 },
+  { "key": 33, "expression": "7-4", "answer": "3", "eval": 3 },
+  { "key": 34, "expression": "4-2÷8×9", "answer": "1'3/4", "eval": 1.75 },
+  {
+    "key": 35,
+    "expression": "3÷7×4÷6",
+    "answer": "2/7",
+    "eval": 0.2857142857142857
+  },
+  {
+    "key": 36,
+    "expression": "1-6÷7÷9",
+    "answer": "19/21",
+    "eval": 0.9047619047619048
+  },
+  { "key": 37, "expression": "6×8-4×1", "answer": "44", "eval": 44 },
+  { "key": 38, "expression": "7-6", "answer": "1", "eval": 1 },
+  {
+    "key": 39,
+    "expression": "8-7÷9",
+    "answer": "7'2/9",
+    "eval": 7.222222222222222
+  },
+  {
+    "key": 40,
+    "expression": "5÷7",
+    "answer": "5/7",
+    "eval": 0.7142857142857143
+  },
+  { "key": 41, "expression": "3×3×4", "answer": "36", "eval": 36 },
+  {
+    "key": 42,
+    "expression": "7÷6÷7",
+    "answer": "1/6",
+    "eval": 0.16666666666666669
+  },
+  { "key": 43, "expression": "8-1÷8×9", "answer": "6'7/8", "eval": 6.875 },
+  {
+    "key": 44,
+    "expression": "1÷3",
+    "answer": "1/3",
+    "eval": 0.3333333333333333
+  },
+  {
+    "key": 45,
+    "expression": "3×8÷9",
+    "answer": "2'2/3",
+    "eval": 2.6666666666666665
+  },
+  {
+    "key": 46,
+    "expression": "8÷9",
+    "answer": "8/9",
+    "eval": 0.8888888888888888
+  },
+  { "key": 47, "expression": "7-1-1-4", "answer": "3", "eval": 1 },
+  { "key": 48, "expression": "8-4", "answer": "4", "eval": 4 },
+  { "key": 49, "expression": "1×9", "answer": "9", "eval": 9 },
+  {
+    "key": 50,
+    "expression": "5÷7÷8×9",
+    "answer": "45/56",
+    "eval": 0.8035714285714286
+  },
+  {
+    "key": 51,
+    "expression": "8÷9×5×1",
+    "answer": "4'4/9",
+    "eval": 4.444444444444445
+  },
+  { "key": 52, "expression": "4-1÷8×9", "answer": "2'7/8", "eval": 2.875 },
+  { "key": 53, "expression": "2×7×8", "answer": "112", "eval": 112 },
+  { "key": 54, "expression": "2÷5×8", "answer": "3'1/5", "eval": 3.2 },
+  {
+    "key": 55,
+    "expression": "4-8÷9×4",
+    "answer": "4/9",
+    "eval": 0.44444444444444464
+  },
+  { "key": 56, "expression": "2×5", "answer": "10", "eval": 10 },
+  { "key": 57, "expression": "6÷8×9", "answer": "6'3/4", "eval": 6.75 },
+  { "key": 58, "expression": "2-2÷4", "answer": "1'1/2", "eval": 1.5 },
+  { "key": 59, "expression": "9×9", "answer": "81", "eval": 81 },
+  { "key": 60, "expression": "1×7×4", "answer": "28", "eval": 28 },
+  {
+    "key": 61,
+    "expression": "1÷2×8÷9",
+    "answer": "4/9",
+    "eval": 0.4444444444444444
+  },
+  { "key": 62, "expression": "6×1-1", "answer": "5", "eval": 5 },
+  { "key": 63, "expression": "6×6×6", "answer": "216", "eval": 216 },
+  { "key": 64, "expression": "9-3×1", "answer": "6", "eval": 6 },
+  {
+    "key": 65,
+    "expression": "3×2÷5×9",
+    "answer": "10'4/5",
+    "eval": 10.799999999999999
+  },
+  {
+    "key": 66,
+    "expression": "8-3÷9",
+    "answer": "7'2/3",
+    "eval": 7.666666666666667
+  },
+  { "key": 67, "expression": "9×2×5", "answer": "90", "eval": 90 },
+  {
+    "key": 68,
+    "expression": "2÷7÷9",
+    "answer": "2/63",
+    "eval": 0.031746031746031744
+  },
+  { "key": 69, "expression": "6×4×6", "answer": "144", "eval": 144 },
+  { "key": 70, "expression": "5×5-1-1", "answer": "25", "eval": 23 },
+  { "key": 71, "expression": "7-4", "answer": "3", "eval": 3 },
+  {
+    "key": 72,
+    "expression": "1÷9",
+    "answer": "1/9",
+    "eval": 0.1111111111111111
+  },
+  {
+    "key": 73,
+    "expression": "6-2÷7-4",
+    "answer": "9'5/7",
+    "eval": 1.7142857142857144
+  },
+  { "key": 74, "expression": "8×8", "answer": "64", "eval": 64 },
+  {
+    "key": 75,
+    "expression": "1÷5×6×7",
+    "answer": "8'2/5",
+    "eval": 8.400000000000002
+  },
+  {
+    "key": 76,
+    "expression": "5÷8÷9×8",
+    "answer": "5/9",
+    "eval": 0.5555555555555556
+  },
+  {
+    "key": 77,
+    "expression": "6÷8÷9",
+    "answer": "1/12",
+    "eval": 0.08333333333333333
+  },
+  { "key": 78, "expression": "7×5", "answer": "35", "eval": 35 },
+  { "key": 79, "expression": "5÷8", "answer": "5/8", "eval": 0.625 },
+  {
+    "key": 80,
+    "expression": "4÷6÷8×1",
+    "answer": "1/12",
+    "eval": 0.08333333333333333
+  },
+  {
+    "key": 81,
+    "expression": "1÷6",
+    "answer": "1/6",
+    "eval": 0.16666666666666666
+  },
+  { "key": 82, "expression": "5×6", "answer": "30", "eval": 30 },
+  { "key": 83, "expression": "9-8-1", "answer": "2", "eval": 0 },
+  { "key": 84, "expression": "1-1", "answer": "0", "eval": 0 },
+  {
+    "key": 85,
+    "expression": "5-6÷7÷9",
+    "answer": "4'19/21",
+    "eval": 4.904761904761905
+  },
+  { "key": 86, "expression": "5×3÷4", "answer": "3'3/4", "eval": 3.75 },
+  { "key": 87, "expression": "7×9", "answer": "63", "eval": 63 },
+  { "key": 88, "expression": "2÷4", "answer": "1/2", "eval": 0.5 },
+  {
+    "key": 89,
+    "expression": "8÷9",
+    "answer": "8/9",
+    "eval": 0.8888888888888888
+  },
+  { "key": 90, "expression": "1÷8", "answer": "1/8", "eval": 0.125 },
+  { "key": 91, "expression": "3÷4×8", "answer": "6", "eval": 6 },
+  {
+    "key": 92,
+    "expression": "1÷4÷7",
+    "answer": "1/28",
+    "eval": 0.03571428571428571
+  },
+  { "key": 93, "expression": "7÷8×9-1", "answer": "6'7/8", "eval": 6.875 },
+  {
+    "key": 94,
+    "expression": "6÷9×1×1",
+    "answer": "2/3",
+    "eval": 0.6666666666666666
+  },
+  {
+    "key": 95,
+    "expression": "4×4÷9×5",
+    "answer": "8'8/9",
+    "eval": 8.88888888888889
+  },
+  { "key": 96, "expression": "1÷4×3", "answer": "3/4", "eval": 0.75 },
+  { "key": 97, "expression": "4-4", "answer": "0", "eval": 0 },
+  {
+    "key": 98,
+    "expression": "1÷7",
+    "answer": "1/7",
+    "eval": 0.14285714285714285
+  },
+  {
+    "key": 99,
+    "expression": "8÷9",
+    "answer": "8/9",
+    "eval": 0.8888888888888888
+  },
+  {
+    "key": 100,
+    "expression": "2÷9",
+    "answer": "2/9",
+    "eval": 0.2222222222222222
+  }
+]

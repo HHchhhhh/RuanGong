@@ -1,4 +1,9 @@
+// 定义随机数的范围
 function getRandom(number) {
-  return Math.floor(Math.random() * number);
+  let num = Math.floor(Math.random() * number);
+  while(num === 0) {
+    num = Math.floor(Math.random() * number);
+  }
+  return num
 }
 module.exports = getRandom;
