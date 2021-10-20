@@ -13,10 +13,8 @@ function generate(n, r) {
   let answers = [];
   let data = []
   for (let i = 0; i < n; i++) {
-    let expression = ifLogical(r, exercises); //判断表达式是否符合逻辑 如果符合逻辑，就返回一个表达式
+    let expression = ifLogical(r, exercises); // 判断表达式是否符合逻辑 如果符合逻辑，就返回一个表达式
     let answer = calculate(expression);
-    // exercises.push({ key: i, expression });
-    // answers.push({ key: i, answer });
     let ex = ''
     for(let j = 0; j < expression.length; j++) {
       if(expression[j] === '×') {

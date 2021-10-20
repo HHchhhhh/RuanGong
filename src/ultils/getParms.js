@@ -1,4 +1,9 @@
-// 获取参数列表
+/**
+ * 获取参数列表
+ * @param {Array} arr 
+ * @param {String} parmName 
+ * @returns 
+ */
 function getParams(arr, parmName) {
   for (let i = 2; i < arr.length; i++) {
     let expression = arr[i];
