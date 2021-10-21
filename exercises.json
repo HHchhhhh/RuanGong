@@ -1,6 +1,6 @@
 [
   { "key": 1, "expression": "8-7÷9×9", "answer": "1", "eval": 1 },
-  { "key": 2, "expression": "9×6-9-8", "answer": "53", "eval": 37 },
+  { "key": 2, "expression": "9×6-9-8", "answer": "53", "eval": 57 },
   { "key": 3, "expression": "3×7", "answer": "21", "eval": 21 },
   { "key": 4, "expression": "2×2×1", "answer": "4", "eval": 4 },
   {
